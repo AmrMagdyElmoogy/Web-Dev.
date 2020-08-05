@@ -1,0 +1,306 @@
+body {
+    padding: 40px;
+    background-color: #f0ece3;
+}
+
+.Dark {
+    width: 1100px;
+    height: 1000px;
+    background-color: hsl(230, 17%, 14%);
+    padding: 20px 100px;
+    position: relative;
+    top: 320px;
+    font-family: 'Inter', sans-serif;
+}
+
+.H2 {
+    color: white;
+}
+
+.P1 {
+    color: white;
+    font-size: 15px;
+    font-weight: 100;
+    line-height: 0;
+}
+
+.FaceBook {
+    width: 250px;
+    height: 200px;
+    background-color: hsl(228, 28%, 20%);
+    position: absolute;
+    top: 150px;
+    text-align: center;
+    padding: 30px 0 0 0;
+    border-style: solid none none none;
+    border-radius: 2%;
+    border-color: hsl(210, 78%, 56%);
+}
+
+.P2 {
+    display: inline-block;
+    font-family: 'Inter', sans-serif;
+    font-weight: 100;
+    margin-left: 7px;
+    color: white;
+    position: relative;
+    bottom: 4px;
+}
+
+.H1 {
+    color: hsl(0, 0%, 100%);
+    line-height: 0;
+    margin-top: 26px;
+    font-size: 60px;
+}
+
+.P3 {
+    color: hsl(0, 0%, 100%);
+    line-height: 0;
+    font-size: 27px;
+    position: relative;
+    top: 5px;
+    font-family: 'Inter', sans-serif;
+    font-weight: lighter;
+    margin-bottom: 50px;
+}
+
+.P4 {
+    color: hsl(146, 68%, 55%);
+    line-height: 0;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+}
+
+.up {
+    position: absolute;
+    top: 198px;
+    left: 70px;
+}
+
+.Twitter {
+    width: 250px;
+    height: 200px;
+    background-color: hsl(228, 28%, 20%);
+    position: absolute;
+    top: 150px;
+    left: 380px;
+    text-align: center;
+    padding: 30px 0 0 0;
+    border-style: solid none none none;
+    border-radius: 2%;
+    border-color: hsl(210, 78%, 56%);
+}
+
+.Instagram {
+    width: 250px;
+    height: 200px;
+    background-color: hsl(228, 28%, 20%);
+    position: absolute;
+    top: 150px;
+    left: 660px;
+    text-align: center;
+    padding: 30px 0 0 0;
+    border-style: solid none none none;
+    border-radius: 2%;
+    border-image-source: linear-gradient(to right, hsl(37, 97%, 70%), hsl(329, 70%, 58%));
+    border-image-slice: 1;
+}
+
+.YouTube {
+    width: 250px;
+    height: 200px;
+    background-color: hsl(228, 28%, 20%);
+    position: absolute;
+    top: 150px;
+    left: 940px;
+    text-align: center;
+    padding: 30px 0 0 0;
+    border-style: solid none none none;
+    border-radius: 2%;
+    border-color: hsl(348, 97%, 39%);
+}
+
+.down {
+    position: absolute;
+    top: 198px;
+    left: 70px;
+}
+
+.P5 {
+    color: hsl(356, 69%, 56%);
+    line-height: 0;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+}
+
+.H3 {
+    color: white;
+    position: absolute;
+    top: 450px;
+}
+
+.Face {
+    width: 192px;
+    height: 110px;
+    background-color: hsl(228, 28%, 20%);
+    position: absolute;
+    top: 548px;
+    padding: 30px;
+    border-radius: 2%;
+}
+
+.newP {
+    color: hsl(0, 0%, 100%);
+    line-height: 0;
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    font-weight: lighter;
+}
+
+.newH1 {
+    color: hsl(0, 0%, 100%);
+    font-size: 40px;
+}
+
+.newup {
+    float: right;
+    position: absolute;
+    top: 115px;
+    left: 200px;
+}
+
+.newRec {
+    float: right;
+    position: absolute;
+    top: 91px;
+    left: 210px;
+    color: hsl(163, 72%, 41%);
+}
+
+.Likes {
+    width: 192px;
+    height: 110px;
+    background-color: hsl(228, 28%, 20%);
+    position: absolute;
+    top: 548px;
+    left: 382px;
+    padding: 30px;
+    border-radius: 2%;
+}
+
+.newup2 {
+    float: right;
+    position: absolute;
+    top: 115px;
+    left: 200px;
+}
+
+.LikesIns {
+    width: 192px;
+    height: 110px;
+    background-color: hsl(228, 28%, 20%);
+    position: absolute;
+    top: 548px;
+    left: 662px;
+    padding: 30px;
+    border-radius: 2%;
+}
+
+.newup3 {
+    float: right;
+    position: absolute;
+    top: 115px;
+    left: 177px;
+}
+
+.newRec3 {
+    float: right;
+    position: absolute;
+    top: 91px;
+    left: 188px;
+    color: hsl(163, 72%, 41%);
+}
+
+.LikesIns2 {
+    width: 192px;
+    height: 110px;
+    background-color: hsl(228, 28%, 20%);
+    position: absolute;
+    left: 278px;
+    top: 0px;
+    padding: 30px;
+    border-radius: 2%;
+}
+
+.Tweet {
+    width: 192px;
+    height: 110px;
+    background-color: hsl(228, 28%, 20%);
+    position: relative;
+    top: 71px;
+    left: -591px;
+    padding: 30px;
+    border-radius: 2%;
+}
+
+.Tweetlikes {
+    width: 192px;
+    height: 110px;
+    background-color: hsl(228, 28%, 20%);
+    position: relative;
+    top: -100px;
+    left: -309px;
+    padding: 30px;
+    border-radius: 2%;
+}
+
+.Youlikes {
+    width: 192px;
+    height: 110px;
+    background-color: hsl(228, 28%, 20%);
+    position: relative;
+    top: -270px;
+    left: -29px;
+    padding: 30px;
+    border-radius: 2%;
+}
+
+.Youviews {
+    width: 192px;
+    height: 110px;
+    background-color: hsl(228, 28%, 20%);
+    position: relative;
+    top: -440px;
+    left: 248px;
+    padding: 30px;
+    border-radius: 2%;
+}
+
+.Butt {
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    float: right;
+    position: relative;
+    right: 60px;
+    bottom: 82px;
+    color: white;
+}
+
+.switch {
+    float: right;
+    position: relative;
+    right: -112px;
+    bottom: 74px;
+    width: 50px;
+}
+
+.Light {
+    width: 1100px;
+    height: 1000px;
+    background-color: white;
+    padding: 20px 100px;
+    position: relative;
+    top: 100px;
+    font-family: 'Inter', sans-serif;
+}
