@@ -1,0 +1,202 @@
+body 
+{
+    color:white; 
+    margin:0px; 
+    
+
+}  
+.ForPad 
+{
+    padding:3% 4%;
+    background-color: hsl(217, 28%, 15%); 
+}
+.Header
+{
+    float:right; 
+    display:flex;
+    flex-direction: row; 
+    font-family: 'Raleway', sans-serif;
+} 
+.P1 
+{
+    margin-right:20px;
+} 
+.Intro 
+{  
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    display:block; 
+    margin:0 auto; 
+    position: relative; 
+    top:100px; 
+    margin-bottom: 100px; 
+    width:100%;
+}
+.imageintro 
+{
+    width:50%;
+} 
+.Headerintro 
+{ 
+    font-weight: 700;
+    margin-top:10px;
+}
+.btn 
+{   
+    border-radius: 20px; 
+    width:191px; 
+    height:40px; 
+    color:white; 
+    background-image: linear-gradient(to right, hsl(176, 68%, 64%), hsl(198, 60%, 50%));
+} 
+.Paraintro 
+{
+    line-height: 1.5; 
+    font-weight: 100;
+    margin: 20px 0; 
+} 
+.Curving 
+{
+    width:100%;
+    background-color: hsl(217, 28%, 15%); 
+    position: relative; 
+} 
+.row 
+{
+    background-color: hsl(218, 28%, 13%); 
+    padding:50px 200px;  
+    width:101.20%; 
+
+} 
+.anyfile,.Collab
+{
+
+    width:20%; 
+    margin-bottom: 30px;
+}  
+.secure
+{
+    width:20%;  
+    margin-bottom: 5px; 
+    position: relative;
+    bottom:10px;
+}
+.One,.Two,.Three,.Four
+{
+    text-align: center; 
+    margin-bottom: 80px;
+}
+.file 
+{
+    width:20%; 
+    margin-bottom: 40px;
+} 
+.illust 
+{
+    width:53%; 
+    float:left;
+    padding : 0 50px; 
+    margin-left:50px;
+}  
+.row2
+{
+    background-color: hsl(218, 28%, 13%); 
+    width:100%; 
+    height: 450px;  
+} 
+.Headings
+{
+    text-align: left;  
+    position: relative; 
+    top:80px;
+} 
+.See 
+{
+    color:hsl(176, 68%, 64%);
+    text-decoration: underline;
+} 
+.Profile 
+{
+    width:20%;
+    border-radius: 50%; 
+    float:left; 
+    margin-right: 10px;
+} 
+.quotes,.ui
+{  
+    background-color: hsl(218, 28%, 13%); 
+    width:100%;   
+    padding:10px 100px; 
+    display:flex;
+}  
+.Q1 ,.Q2,.Q3
+{
+    width:700px;
+    height: 250px; 
+    background-color: hsl(217, 28%, 15%); 
+    padding:2% 5%;  
+    border-radius: 10px;
+    margin-right: 30px; 
+    margin-bottom:350px;
+}
+.Hp 
+{
+    position: relative; 
+    bottom:20px; 
+    font-weight:100;
+} 
+.Inp 
+{
+    width:800px; 
+    height:230px; 
+    padding:30px 90px; 
+    border-radius:10px; 
+    background-color:hsl(218, 28%, 13%); 
+    position: absolute; 
+    top:3000px;  
+    left:230px;
+    text-align: center; 
+    box-shadow: 4px 4px 4px 4px hsl(218, 28%, 13%);
+} 
+.I
+{
+    width:380px; 
+    border-radius: 50px;
+    padding:8px; 
+    position: relative; 
+    right:80px;
+} 
+.End
+{
+  background-color:hsl(216, 53%, 9%);  
+  padding : 300px 100px; 
+  height: 300px;
+  display:flex; 
+  justify-content: space-between;
+} 
+.Icons
+{
+   width: 350px;
+} 
+.O 
+{
+    position: relative; 
+    top:48px;
+} 
+.Parah 
+{
+    position: relative; 
+    left:30px;
+} 
+.logo 
+{
+    position: relative; 
+    right:15px; 
+    margin-bottom: 15px;
+} 
+.Phone 
+{
+    position: relative; 
+    bottom:23px;
+    left:27px;
+}
