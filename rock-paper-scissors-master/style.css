@@ -1,0 +1,176 @@
+body {
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    background-color: hsl(214, 47%, 23%);
+    padding: 23px 0px;
+}
+
+.UpperHeader {
+    padding: 0px 30px;
+    border: solid hsl(217, 16%, 45%);
+    border-radius: 10px;
+    width: 380px;
+    height: 105px;
+    display: block;
+    margin: 0 auto;
+}
+
+.Head {
+    color: white;
+    margin-top: 18px;
+    line-height: 0.3;
+    font-size: 25px;
+}
+
+.WhiteHead {
+    width: 93px;
+    height: 77px;
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+    position: relative;
+    left: 225px;
+    bottom: 83px;
+}
+
+.inner {
+    color: hsl(229, 64%, 46%);
+    position: relative;
+    top: 10px;
+}
+
+.Degree {
+    color: hsl(229, 25%, 31%);
+    position: relative;
+    bottom: 10px;
+}
+
+.Game {
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    height: 200px;
+}
+
+.Paper,
+.Rock,
+.Scissors {
+    width: 130px;
+    height: 130px;
+    background-color: white;
+    border-radius: 50%;
+    margin-top: 70px;
+}
+
+.Paper {
+    border: 15px solid hsl(230, 89%, 62%);
+    position: absolute;
+    right: 45rem;
+
+}
+
+.Rock {
+    border: 15px solid hsl(349, 71%, 52%);
+    position: absolute;
+    right: 37rem;
+    top: 21rem;
+}
+
+.Scissors {
+    border: 15px solid hsl(39, 89%, 49%);
+    position: absolute;
+    right: 29rem;
+    top: 8rem;
+}
+
+.images {
+    position: relative;
+    left: 24px;
+    top: 22px;
+}
+
+.Tri {
+    position: relative;
+    top: 7rem;
+    right: 1rem;
+    z-index: -1;
+}
+
+.but {
+    position: absolute;
+    top: 90%;
+    right: 6%;
+    width: 6rem;
+    border-radius: 10px;
+}
+
+.Message {
+    width: 500px;
+    padding: 3rem;
+    background-color: hsl(237, 49%, 15%);
+    color: white;
+    border-radius: 15px;
+    font-family: 'Montserrat', sans-serif;
+    position: absolute;
+    top: -400px;
+    left: 370px;
+    z-index: 1;
+}
+
+.b {
+    float: right;
+}
+
+.Result {
+    position: absolute;
+    left: 19rem;
+    color: white;
+    margin-top: 200px;
+    display: none;
+}
+
+.Hea {
+    position: relative;
+    bottom: 120px;
+    font-size: 2rem;
+}
+
+.You,
+.House {
+    width: 171px;
+    background-color: white;
+    height: 162px;
+    border-radius: 50%;
+    border: 15px solid #158467;
+    margin-right: 50px;
+}
+
+.Pap {
+    position: relative;
+    left: 44px;
+    top: -7px;
+}
+
+.Pap2 {
+    position: relative;
+    left: 3rem;
+    top: -3rem;
+}
+
+.WinOrLose {
+    margin-right: 50px;
+    text-align: center;
+    position: relative;
+    top: -8rem;
+    right: -16rem;
+}
+
+.House {
+    border: 15px solid hsl(349, 71%, 52%);
+    position: absolute;
+    top: 0rem;
+    right: -32rem;
+}
+
+.u {
+    width: 180px;
+}

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- displays site properly based on user's device -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link rel="stylesheet" href="style.css">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@700&family=Montserrat:wght@700&display=swap"
+    rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@700&display=swap" rel="stylesheet">
+  <title>Frontend Mentor | Rock, Paper, Scissors</title>
+</head>
+
+<body>
+
+  <div class="UpperHeader">
+    <p class="Head">ROCK</p>
+    <p class="Head">PAPER</p>
+    <p class="Head">SCISSORS</p>
+    <div class="WhiteHead">
+      <p class="inner">Score</p>
+      <h2 class="Degree">0</h2>
+    </div>
+  </div>
+
+  <div class="Game">
+    <div class="Paper">
+      <img class="images" src="images/icon1.svg" alt="">
+    </div>
+
+    <div class="Scissors">
+      <img class="images" src="images/icon3.svg" alt="">
+    </div>
+
+    <div class="Rock">
+      <img class="images" src="images/icon2.svg" alt="">
+    </div>
+    <img class="Tri" src="images/bg-triangle.svg" alt="">
+  </div>
+  <button type="button" class="but btn btn-dark">Rules</button>
+
+  <div class="Message">
+    <ul>
+      <li>A player who decides to play rock will beat another player who has chosen scissors, but will lose to one who
+        has played paper </li>
+      <li>A play of paper will lose to a play of scissors.</li>
+      <li>If both players choose the same shape, the game is tied and is usually immediately replayed to break the tie.
+      </li>
+    </ul>
+    <button type="button" class="b btn btn-light">Close</button>
+  </div>
+
+  <div class="Result">
+    <div class="You">
+      <h4 class="Hea">You Picked</h4>
+      <img class="Pap" src="images/icon1.svg" alt="">
+    </div>
+
+    <div class="WinOrLose">
+      <h2 class="R">YOU WIN</h2>
+      <button type="button" class="u btn btn-light">Play Again</button>
+    </div>
+
+    <div class="House">
+      <h4 class="Hea">Computer Picked</h4>
+      <img class="Pap2" src="images/icon2.svg" alt="">
+    </div>
+  </div>
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+    integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+    integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous">
+  </script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+    integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous">
+  </script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="first.js"></script>
+</body>
+
+</html>
