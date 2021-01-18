@@ -1,0 +1,228 @@
+html{
+  scroll-behavior: smooth ;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.nav {
+    background-color: rgba(255, 255, 255, 0.95);
+    border-bottom: 1px solid #ddd;
+    font-weight: 300;
+    font-size: 17px;
+    padding: 5px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    width: 100%;
+  }
+  .nav .title {
+    position: fixed;
+    left: 100px;
+    margin-top: 10px;
+  }
+  .nav .menu {
+    float: right;
+    list-style: none;
+    margin-top: 10px;
+  }
+  .menu > li {
+    display: inline;
+    padding-left: 30px;
+    padding-right: 30px;  
+  }
+  .menu a {
+    color: #898989;
+  }
+  .menu .border a {
+    border: 1px solid #7FCCE5;
+    padding: 15px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+  }
+.Dess
+{
+  font-size: 18px;
+}
+  .Description
+  {
+    position: absolute;
+    top:130px; 
+    left:100px;
+    width: 350px; 
+  }
+  .Des
+  {
+    font-weight: bold;
+    font-size: 40px;
+  }
+  .Ima1
+  {
+    width: 100%; 
+    height:590px; 
+  } 
+  .Ima2
+  {
+     width:350px;
+     height: 350px; 
+     position: absolute;
+     left:650px; 
+     bottom: 9px;
+  }
+  .Head
+  {
+    text-align: center;
+    color:#1b6ca8; 
+    text-decoration: underline;   
+    font-size: 40px;  
+    font-weight: bold;
+    padding: 30px;
+  }
+  .AboutPara
+  {
+    margin-left: 100px;
+    margin-right: 100px;  
+    margin-bottom: 60px;
+  } 
+  .Records,.Feature1,.Feature2,.Feature3
+  { 
+    display: flex;
+     justify-content: space-between;
+     margin-left: 100px;
+    margin-right: 100px;   
+    margin-bottom: 50px; 
+  }
+  .BigRecord
+  {
+    font-size: 50px; 
+    color:#1b6ca8;  
+    font-weight: bold;
+  } 
+  .DesRecord
+  {
+      font-size: 20px;
+  } 
+  .Features
+  {
+    background-color: #eeeeee;
+  }
+  .lamp
+  {
+    width:100px;
+    height:100px;
+    margin-right: 10px;
+  } 
+  .lamp2
+  {
+    width:100px;
+    height:100px;
+    margin-left: 60px; 
+    margin-right: 10px;
+  }
+  .lamp222
+  {
+    width:100px;
+    height:100px;
+    margin-left: 30px; 
+    margin-right: 10px;
+  }
+  .lamp22
+  {
+    width:100px;
+    height:100px;
+    margin-left: 194px; 
+    margin-right: 10px;
+  }
+ #testimonial-carousel
+  {
+    margin-bottom: 40px; 
+    margin-left: 100px;
+    margin-right: 100px;
+  } 
+  .Author
+  {
+      margin-left: 42%;
+  } 
+  .Quotes
+  {
+    width:20px;
+    height: 20px;
+    position: relative; 
+    bottom: 5px; 
+  }  
+  .testimonial-text
+  {
+    margin-left: 90px; 
+    font-size: 20px; 
+    position: relative;  
+    right:33px;
+  }
+  .carousel-control-prev-icon,.carousel-control-next-icon
+  {
+    width:40px;
+    height: 40px;   
+    filter: invert(1);
+  }  
+  .carousel-control-prev-icon
+  {
+    position: relative; 
+    right:80px;
+  } 
+  .carousel-control-next-icon
+  {
+    position: relative;
+    left:80px;
+  }
+  .row
+  {
+    margin-left: 100px;
+    margin-right: 100px;     
+  } 
+  .Contact
+  {
+    background-color: #eeeeee;
+  } 
+  .label
+  { 
+    font-weight: bold;
+    color:#1b6ca8;  
+    position: relative;  
+    top:20px;
+  } 
+  .label2
+  {
+    font-weight: bold;
+    color:#1b6ca8;  
+  }
+  .form-control
+  {
+    margin-bottom: 15px; 
+  }
+  .SendMess
+  {
+    margin-left: 41%;
+    margin-top: 20px; 
+    margin-bottom: 40px; 
+    background-color:#1b6ca8 ;
+  } 
+  .End
+  {
+    background-color: #1b6ca8; 
+  }
+  .SocialIcons
+  {
+    display: inline;
+    width:50px;
+    height: 50px;  
+  }
+  .NameEnd
+  {
+    text-align: center; 
+    padding-top:30px;
+    font-weight: bold;
+    color: white;
+  }
+  .Icons
+  {
+    margin-left: 41%;
+  }

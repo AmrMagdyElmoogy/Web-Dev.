@@ -1,0 +1,158 @@
+body
+{
+    font-family: 'Montserrat', sans-serif;
+}
+.Home
+{
+    width:130px; 
+    background-color: rgb(202, 219, 233);
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.Menu
+{
+    width: 280px;
+    height: 550px;
+    background-color: #eeeeee; 
+    border-radius: 10px; 
+    position: absolute; 
+    left:70px;
+    top:40px;
+}
+.Username
+{
+    display: inline;
+    position: absolute; 
+    color:#1B6CA8;
+    top:26px; 
+    font-weight: bold;
+    margin-left: 14px; 
+    font-size: 20px;
+}
+.UserImage
+{
+    display:inline;
+    width:50px;
+    height: 50px; 
+    padding :10px;  
+}  
+.InternalImage
+{
+    display:inline; 
+    width:50px;
+    height: 50px;
+    padding :10px; 
+    margin-left: 10px; 
+}
+.UserImage
+{
+    border:1px solid #1B6CA8; 
+    border-radius: 50%; 
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.CurrentGroups
+{
+    background-color: #eeeeee; 
+    border-radius: 10px;  
+    width:800px;
+    height: fit-content; 
+    padding:20px;
+    position: absolute; 
+    left:400px;
+    top:40px;
+} .InternalDes
+{
+    color:#1B6CA8;
+    display: inline;  
+    position: relative; 
+    font-weight: bold;
+    top:5px;
+} 
+.InternalImage
+{
+    display:inline; 
+    width:50px;
+    height: 50px;
+    padding :10px; 
+    margin-left: 10px;
+}
+.Header
+{
+    padding:15px;
+    color:#1B6CA8;
+    font-weight: bold; 
+    margin-bottom: 20px;  
+    margin-left: 5px;
+}
+.Choising
+{
+    display: inline;
+    margin-left: 22px;
+    font-weight: bold;
+    color:#1B6CA8
+}
+.ChoisingTextArea
+{
+    display: inline;
+    margin-left: 22px;
+    font-weight: bold;
+    color:#1B6CA8;
+    position: relative;
+    bottom:40px;
+}
+.Line
+{
+    position: relative;
+    bottom: 22px;
+}
+.Upload
+{
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+    margin-left: 90px;
+    margin-bottom: 50px;
+    display: inline; 
+    position: relative;
+    top:15px;  
+    left:50px;
+    border:1px solid #1B6CA8; 
+    border-radius: 30%; 
+}
+.A1
+{
+    position: relative; 
+    left:50px;
+} 
+.B1
+{
+    position: relative; 
+    left:8px;
+}
+.F1
+{
+    position: relative; 
+    left:41px;
+}
+.G1
+{
+    position: relative; 
+    left:102px;
+}
+.WriteGroup,#exampleFormControlTextarea1
+{
+    display: inline;
+    width:300px;
+    margin-left: 40px;
+}
+.Buttons
+{
+    margin-left:40%;
+}
+.btn
+{
+    margin-right: 20px;
+    background-color: #1B6CA8;
+    border-radius: 10px;
+}

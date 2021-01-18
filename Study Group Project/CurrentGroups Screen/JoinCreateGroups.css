@@ -1,0 +1,114 @@
+body
+{
+    font-family: 'Montserrat', sans-serif;
+}
+.Home
+{
+    width:130px; 
+    background-color: rgb(202, 219, 233);
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.Menu
+{
+    width: 280px;
+    height: 550px;
+    background-color: #eeeeee; 
+    border-radius: 10px; 
+    position: absolute; 
+    left:70px;
+    top:40px;
+}
+.Username
+{
+    display: inline;
+    position: absolute; 
+    top:26px; 
+    font-weight: bold;
+    color:#1B6CA8;
+    margin-left: 14px; 
+    font-size: 20px;
+}
+.UserImage
+{
+    display:inline;
+    width:50px;
+    height: 50px; 
+    padding :10px;  
+}  
+.InternalImage
+{
+    display:inline; 
+    width:50px;
+    height: 50px;
+    padding :10px; 
+    margin-left: 10px; 
+}
+.UserImage
+{
+    border:1px solid #1B6CA8; 
+    border-radius: 50%; 
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.Header
+{
+    padding:15px;
+    color:#1B6CA8;
+    font-weight: bold; 
+    margin-bottom: 20px;  
+    margin-left: 5px;
+}
+
+.CurrentGroups
+{
+    background-color: #eeeeee; 
+    border-radius: 10px;  
+    width:800px;
+    height: fit-content; 
+    padding:20px;
+    position: absolute; 
+    left:400px;
+    top:40px;
+} 
+.TempImage
+{
+    width: 713px;
+    height: 303px;  
+    margin-left: 20px;
+} 
+.InternalDes
+{
+    color:#1B6CA8;
+    display: inline;  
+    position: relative; 
+    font-weight: bold;
+    top:5px;
+} 
+.InternalImage
+{
+    display:inline; 
+    width:50px;
+    height: 50px;
+    padding :10px; 
+    margin-left: 10px;
+}
+.Parag
+{
+    color:#1B6CA8; 
+    margin-top: 30px;
+    font-weight: bold; 
+    text-align: center;
+} 
+.btn
+{
+    margin-left: 230px; 
+    margin-top: 10px; 
+    border-radius: 10px;
+} 
+.Create
+{ 
+    margin-top: 10px;
+    margin-left: 20px; 
+    border-radius: 10px;
+}

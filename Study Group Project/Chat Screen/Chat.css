@@ -1,0 +1,268 @@
+body
+{
+    font-family: 'Montserrat', sans-serif; 
+    background-color: white; 
+}
+.Home
+{
+    width:130px; 
+    background-color: rgb(202, 219, 233);
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.Menu
+{
+    width: 280px;
+    height: 559px;
+    background-color: #eeeeee; 
+    border-radius: 10px; 
+    position: absolute; 
+    left:70px;
+    top:24px;
+}
+.Username
+{
+    display: inline;
+    position: absolute; 
+    color: #1B6CA8;
+    top:26px; 
+    font-weight: bold;
+    margin-left: 14px; 
+    font-size: 20px;
+}
+.UserImage
+{
+    display:inline;
+    width:50px;
+    height: 50px; 
+    padding :10px;  
+}  
+.InternalImage
+{
+    display:inline; 
+    width:50px;
+    height: 50px;
+    padding :10px; 
+    margin-left: 10px; 
+}
+.UserImage
+{
+    border:1px solid #1B6CA8; 
+    border-radius: 50%; 
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.Header
+{
+    position: relative;
+    bottom: 20px;
+}
+.CurrentGroups
+{
+    background-color: #eeeeee; 
+    border-radius: 10px;  
+    width:800px;
+    height: 559px; 
+    position: absolute; 
+    left:400px;
+    top:24px;
+} 
+
+.InternalDes
+{
+    color:#1B6CA8;
+    display: inline;  
+    position: relative; 
+    font-weight: bold;
+    top:5px;
+} 
+.InternalImage
+{
+    display:inline; 
+    width:50px;
+    height: 50px;
+    padding :10px; 
+    margin-left: 10px;
+}
+.PhotoBar
+{
+    width: 20px;
+    height: 20px;
+}
+.GroupName
+{
+    display: inline;
+    position: relative; 
+    font-weight: bold; 
+    color:#1B6CA8;
+    bottom: 10px; 
+    margin-left: 10px;
+}
+.PhotoBarArrow
+{
+    width: 25px;
+    height: 25px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.PhotoBarGG
+{
+    width: 50px;
+    height: 50px; 
+    border-radius: 10px;
+    display: inline;
+} 
+.Bar
+{
+    background-color: #eeeeee; 
+    padding-top: 20px;
+    border-radius: 10px; 
+    height: 84px;
+}
+.Numbers
+{
+    position: relative; 
+    left:104px;
+    bottom:25px; 
+    margin-left: 10px;
+    color:#1B6CA8;
+}
+.Icons
+{
+    float : right; 
+} 
+.PhotoBarRight
+{
+    width: 23px;
+    height: 23px;
+    margin-right: 10px;
+} 
+.PPMess
+{
+    border-radius: 10px; 
+    width:50px;
+    height: 50px;  
+    margin: 20px;  
+    position: relative; 
+    top:-18px;
+    display: inline;
+}
+.PPMess2
+{
+    border-radius: 10px; 
+    width:50px;
+    height: 50px;  
+    margin: 20px;  
+    position: relative; 
+    top:-27px;
+    display: inline;
+}
+.PPMess3
+{
+    border-radius: 10px; 
+    width:50px;
+    height: 50px;  
+    margin: 20px;  
+    position: relative; 
+    top:-35px;
+    display: inline;
+}
+.MessageBody
+{
+    width:300px;
+    height: 60px;
+    border-radius: 10px 10px 10px 0px; 
+    padding:10px;
+    background-color:white;  
+    margin-left: 10px;
+    position: absolute;
+    top:107px;
+    left:70px;
+}
+.MessageBody2
+{
+    width:300px;
+    height: 60px;
+    border-radius: 10px 10px 10px 0px; 
+    padding:10px;
+    background-color:white;  
+    margin-left: 10px;
+    position: absolute;
+    top:188px;
+    left:70px;
+} 
+.MessageBody3
+{
+    width:300px;
+    height: 60px;
+    border-radius: 10px 10px 10px 0px; 
+    padding:10px;
+    background-color:white;  
+    margin-left: 10px;
+    position: absolute;
+    top:270px;
+    left:70px;
+}
+.MessageBody4
+{
+    width:300px;
+    height: 60px;
+    border-radius: 10px 10px 0px 10px; 
+    padding:10px;
+    background-color:#1B6CA8;  
+    margin-left: 10px; 
+    margin-right: 9px; 
+    position: relative;
+    bottom:40px;
+    float:right; 
+}
+.MessageBody5
+{
+    width:300px;
+    height: 60px;
+    border-radius: 10px 10px 10px 0px; 
+    padding:10px;
+    background-color:white;  
+    margin-left: 10px;
+    position: absolute;
+    top:429px;
+    left:70px;
+}
+.MessageMe
+{
+    color:white;
+}
+.PPMess5
+{
+    border-radius: 10px; 
+    width:50px;
+    height: 50px;  
+    margin: 20px;  
+    display: inline;
+    position: relative;
+    top:35px;
+}
+.SendMessage
+{
+    border-radius: 10px;
+    background-color: white; 
+    position: relative;
+    top:27px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px;
+    width:732px;
+}
+.sendButton
+{
+    width:25px;
+    height: 25px; 
+    float: right; 
+    position: relative;
+    top:-8px; 
+    margin-right: 13px;
+}
+.send
+{
+    color:#1B6CA8;
+}

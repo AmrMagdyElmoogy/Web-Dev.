@@ -1,0 +1,201 @@
+body
+{
+    font-family: 'Montserrat', sans-serif;
+}
+.Home
+{
+    width:130px; 
+    background-color: rgb(202, 219, 233);
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.Menu
+{
+    width: 280px;
+    height: 627px;
+    background-color: #eeeeee; 
+    border-radius: 10px; 
+    position: absolute; 
+    left:70px;
+    top:40px;
+}
+.Username
+{
+    display: inline;
+    position: absolute; 
+    top:26px;  
+    color:#1B6CA8;
+    font-weight: bold;
+    margin-left: 14px; 
+    font-size: 20px;
+}
+.UserImage
+{
+    display:inline;
+    width:50px;
+    height: 50px; 
+    padding :10px;  
+}  
+.InternalImage
+{
+    display:inline; 
+    width:50px;
+    height: 50px;
+    padding :10px; 
+    margin-left: 10px;
+}
+.UserImage
+{
+    border:1px solid #1B6CA8; 
+    border-radius: 50%; 
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.InternalDes
+{
+    color:#1B6CA8;
+    display: inline;  
+    position: relative; 
+    font-weight: bold;
+    top:5px;
+} 
+.CurrentGroups
+{
+    background-color: #eeeeee; 
+    border-radius: 10px;  
+    width:800px;
+    height: 627px; 
+    padding:20px;
+    position: absolute; 
+    left:400px;
+    top:40px;
+} 
+.Header
+{
+    padding:15px;
+    color:#1B6CA8;
+    font-weight: bold; 
+    margin-bottom: 20px;  
+    margin-left: 5px;
+}
+.Line
+{
+    position: relative;
+    bottom: 22px;
+} 
+.PhotoBarGG
+{
+    width: 50px;
+    height: 50px; 
+    border-radius: 10px;
+    display: inline;
+} 
+.Numbers
+{
+    position: absolute; 
+    left:103px;
+    top:219px;
+    color:#1B6CA8;
+}
+.GroupName
+{
+    display: inline;
+    position: absolute; 
+    font-weight: bold; 
+    color:#1B6CA8;
+    margin-left: 10px;
+}
+.btn
+{
+    float:right;
+    width:79px;
+    background-color: #1B6CA8;  
+    border-radius: 10px;
+}
+.Group
+{
+    border: 2px solid #1B6CA8;
+    border-radius: 10px; 
+    padding: 20px; 
+    margin-bottom: 20px;
+}
+.Descript
+{
+    position: absolute; 
+    left:222px;
+    top:211px; 
+    font-weight: bold;
+    color:#1B6CA8;
+} 
+.GroupName2
+{
+    display: inline;
+    position: absolute; 
+    font-weight: bold; 
+    color:#1B6CA8;
+    margin-left: 10px; 
+    top:311px;
+}
+.Numbers2
+{
+    position: absolute; 
+    left:103px;
+    top:333px;
+    color:#1B6CA8;
+}
+.Descript2
+{
+    position: absolute; 
+    left:222px;
+    top:325px; 
+    font-weight: bold;
+    color:#1B6CA8;
+}
+.GroupName3
+{
+    display: inline;
+    position: absolute; 
+    font-weight: bold; 
+    color:#1B6CA8;
+    margin-left: 10px; 
+    top:425px;
+}
+.Numbers3
+{
+    position: absolute; 
+    left:103px;
+    top:446px;
+    color:#1B6CA8;
+}
+.Descript3
+{
+    position: absolute; 
+    left:222px;
+    top:438px; 
+    font-weight: bold;
+    color:#1B6CA8;
+} 
+.GroupName4
+{
+    display: inline;
+    position: absolute; 
+    font-weight: bold; 
+    color:#1B6CA8;
+    margin-left: 10px; 
+    top:539px;
+}
+.Numbers4
+{
+    position: absolute; 
+    left:103px;
+    top:561px;
+    color:#1B6CA8;
+}
+.Descript4
+{
+    position: absolute; 
+    left:222px;
+    top:554px; 
+    font-weight: bold;
+    color:#1B6CA8;
+} 
